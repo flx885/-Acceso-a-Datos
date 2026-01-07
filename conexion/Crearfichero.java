@@ -121,7 +121,7 @@ public class Crearfichero {
                 contrato.appendChild(prov);
                 // Añade como hijo
 
-                // ❌ No añadimos tipoContrato
+                // No añadimos tipoContrato
                 // Se omite intencionalmente el campo tipoContrato según el enunciado
                 root.appendChild(contrato);
                 // Añade el contrato completo como hijo del elemento raíz
@@ -163,3 +163,4 @@ public class Crearfichero {
         }
     }
 }
+
